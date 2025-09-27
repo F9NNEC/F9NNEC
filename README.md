@@ -6,7 +6,7 @@ Undergraduate Electrical Engineering Student at Sriwijaya University<br/>
 Sharing about my journey and learnings in tech<br/>
 Currently learning about web development and robotics!<br/>
 
-[![Adit's GitHub stats](https://github-readme-stats.vercel.app/api?username=F9NNEC)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 
@@ -25,3 +25,9 @@ Currently learning about web development and robotics!<br/>
 <br />
 
 #
+
+---
+
+[![Adit's GitHub stats](https://github-readme-stats.vercel.app/api?username=F9NNEC&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=F9NNEC&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=F9NNEC&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
