@@ -7,8 +7,8 @@
 💻Currently learning about web development and robotics!<br/>
 
 
-
 ---
+
 
 ### 🧰 Languages and Tools
 
@@ -24,7 +24,9 @@
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
+
 ---
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/F9NNEC/F9NNEC/output/pacman-contribution-graph-dark.svg">
