@@ -1,1 +1,1 @@
-print("Hello There!, may the force be with you")
+print("Hello There!")
