@@ -19,6 +19,9 @@
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30px" height="30px"/>
+<img align="left" alt="Laravel" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/Laravel-4169e1?style=for-the-badge&logo=laravel&logoColor=white" />
+<img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/PHP-FFA500?style=for-the-badge&logo=php&logoColor=white" />
+<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/MySQL-4169e1?style=for-the-badge&logo=mysql&logoColor=white" /> 
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
