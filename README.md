@@ -2,6 +2,10 @@
 
 **`Hello there, I'm Adit!`**
 
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGoyajBqM2x1Z2o4bWRqejg4cDlrZmFhajQ3b2NxOGpmdGF1MWNzeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zOvBKUUEERdNm/giphy.gif"  />
+</div>
+
 ⚡Undergraduate Electrical Engineering Student at Sriwijaya University<br/>
 🌐Sharing about my journey and learnings in tech<br/>
 💻Currently learning about web development and robotics!<br/>
