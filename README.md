@@ -8,7 +8,7 @@
 
 ⚡Undergraduate Electrical Engineering Student at Sriwijaya University<br/>
 🌐Sharing about my journey and learnings in tech<br/>
-💻Currently learning about web development and robotics!<br/>
+💻Currently learning about Robotics, Computer Vision, and Web development!<br/>
 
 
 ---
